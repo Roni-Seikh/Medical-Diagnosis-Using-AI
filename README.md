@@ -124,7 +124,3 @@ We welcome contributions to improve this project. If you'd like to contribute, p
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 📝
 
 ---
-
-Feel free to fork this repository, contribute, and make improvements! 🎉
-
-```
