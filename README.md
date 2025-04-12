@@ -124,3 +124,12 @@ We welcome contributions to improve this project. If you'd like to contribute, p
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 📝
 
 ---
+
+## 📞 **Contact**
+
+You can reach out to me on my professional profiles:
+
+- [LinkedIn](https://www.linkedin.com/in/roniseikh)  
+- [GitHub](https://github.com/Roni-Seikh)
+
+---
